@@ -39,9 +39,18 @@ Click through to any of the following links for more detail.
 
 [Boris Bikes](https://github.com/KajaMaria/boris_bikes)
 
-[OOD - Encapsulation]
+[OOD - Encapsulation](https://github.com/KajaMaria/takeaway-challenge)
 
 [TDD Practice 1](https://github.com/KajaMaria/TDD_Ruby_Students_names_and_motivation)
+
+[Oyster Card](https://github.com/KajaMaria/Oystercard)
+
+[Airport](https://github.com/KajaMaria/airport_challenge)
+
+[Battle Using Sinatra](https://github.com/KajaMaria/battle)
+
+[RPS](https://github.com/KajaMaria/rps-challenge)
+
 
 ------
 
@@ -61,11 +70,13 @@ Click through to any of the following links for more detail.
 
 [Class extraction]
 
+[Working with testers](https://github.com/KajaMaria/Portfolio)
+
 ------
 
 ## Weekly goals
 
-[Week 2](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week3.md)
+[Week 3](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week3.md)
 
 [Week 2](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week2.md)
 
