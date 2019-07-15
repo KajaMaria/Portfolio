@@ -21,6 +21,9 @@ By the end of this week:
   - Ex. Can i do a diagram t explain the process?
 - Explain the MVC patter
 
+
+```rb
+
 http request
 -----------     ------>    ------------
 |             |           |             |
@@ -28,6 +31,8 @@ http request
 |             |           |             |
 -----------     <------     ------------
 http response
+
+```
 
 Underneath :
 
