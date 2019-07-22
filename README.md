@@ -76,6 +76,8 @@ Click through to any of the following links for more detail.
 
 ## Weekly goals
 
+[Week 4]https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week4.md
+
 [Week 3](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week3.md)
 
 [Week 2](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week2.md)
