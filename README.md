@@ -51,6 +51,16 @@ Click through to any of the following links for more detail.
 
 [RPS](https://github.com/KajaMaria/rps-challenge)
 
+[Chitter](https://github.com/KajaMaria/chitter-challenge)
+
+[Thermostat](https://github.com/KajaMaria/Thermostat_JS)
+
+[Bowling](https://github.com/KajaMaria/bowling-challenge)
+
+[AirB_or_not_to_B](https://github.com/KajaMaria/Airbe_or_not_to_be)
+
+
+
 
 ------
 
@@ -70,7 +80,7 @@ Click through to any of the following links for more detail.
 
 [Class extraction]
 
-[Working with testers](https://github.com/KajaMaria/Portfolio)
+[Working with testers](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Ash_winter.md)
 
 ------
 
