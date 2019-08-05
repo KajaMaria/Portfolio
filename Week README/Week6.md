@@ -3,7 +3,7 @@
 # Monday  
 
 
-##Team work week !!
+Team work week !!
 
 Goal of this week is to build a clone of AirB&B.
 Get used to organising your work.
@@ -41,3 +41,8 @@ AirB&B
 - Trello board?
 - Use branches on Github
 - Create a pull request to the master branch
+
+## Capgemini -> DevOps and Platform Engineering
+
+[Link to notes](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/PlatformEngineering.md)
+
