@@ -86,6 +86,14 @@ Click through to any of the following links for more detail.
 
 ## Weekly goals
 
+[Week 11&12](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week11%2612.md)
+
+[Week 10](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week10.md)
+
+[Week 8&9](https://github.com/KajaMaria/Portfolio/tree-save/master/Week%20README/Week8&9.md)
+
+[Week 7](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week7.md)
+
 [Week 6](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week6.md)
 
 [Week 5](https://github.com/KajaMaria/Portfolio/blob/master/Week%20README/Week5.md)
